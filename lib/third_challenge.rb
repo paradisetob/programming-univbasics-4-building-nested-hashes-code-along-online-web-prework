@@ -9,8 +9,9 @@ def third_challenge
         :age=>"54"
         }
 
-        
-      :hero_friends => []
+        :hero_friends => { :name=>"Romeo",:age=>"15"
+
+      }
    },
    :capulet => {
       :patriarch => {
